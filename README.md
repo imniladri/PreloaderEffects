@@ -18,5 +18,6 @@ Preview || Links || Code
 8. [Loader Type Rotate](https://imniladri.github.io/PreloaderEffects/Loader%20Type%20Rotate/loading.html)
 9. [Loader Type Square](https://imniladri.github.io/PreloaderEffects/Loader%20Type%20Square/loading.html)
 10. [Loader Type System](https://imniladri.github.io/PreloaderEffects/Loader%20Type%20System/loading.html)
+11. [Loader Type Bubble](https://imniladri.github.io/PreloaderEffects/Loader%20Type%20Bubble/loading.html)
 
 _-- More Coming Soon --_
